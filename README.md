@@ -213,7 +213,7 @@ This project is a part of my portfolio and highlights the SQL skills that are fu
 
 
 
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/shingbalahclouston)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/shingbalahclouston/)
 
 
-Thank you for your support, and I look forward to connecting with you!
+Thank you for your time and I look forward to connecting with you!
